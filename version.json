@@ -1,6 +1,5 @@
-
 {
   "version": "1.2.6",
-  "apkUrl": "https://github.com/kipmoss-spec/hymns-of-praise/releases/download/v1.2.5/Songs-Of-Worship-And-Praise-V1.2.5-Fixed.apk",
-  "releaseNotes": "Songs Of Worship & Praise V1.2.5 is here! Enjoy improved fullscreen Lyrics, fullscreen text-size controls, smoother navigation and bug fixes."
+  "apkUrl": "YOUR_ACTUAL_V1.2.6_APK_RELEASE_URL",
+  "releaseNotes": "Songs Of Worship & Praise V1.2.6: Improved update system, responsive Update Now button and bug fixes."
 }
